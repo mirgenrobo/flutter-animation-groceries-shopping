@@ -1,6 +1,5 @@
 # Flutter animation challenge 5 - Groceries shopping app
 
-## Creator Qani Ajdini
 A Flutter animation implementation based on [Groceries Shopping App Interaction](https://dribbble.com/shots/6120171-Groceries-Shopping-App-Interaction).
 
 ## About
